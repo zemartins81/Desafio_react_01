@@ -1,7 +1,9 @@
 const conta = {
     email: 'zemartins81@gmail.com',
     password: '123456',
-    name: 'José Carlos'
+    name: 'José Carlos',
+    balance: 200,
+    id: '1234'
 }
 
 export const api = new Promise((resolve ) => {
